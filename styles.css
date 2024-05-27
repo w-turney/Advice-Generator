@@ -86,7 +86,7 @@ p {
 
 @media (max-width: 550px) {
     .wrapper {
-        max-width: 80vw;
+        min-width: 80vw;
         min-height: 60vh;
     }
 }
